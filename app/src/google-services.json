@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735761968769",
+    "firebase_url": "https://bus-tracker-e535f-default-rtdb.firebaseio.com",
+    "project_id": "bus-tracker-e535f",
+    "storage_bucket": "bus-tracker-e535f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735761968769:android:5d447046ea4ae380c3e780",
+        "android_client_info": {
+          "package_name": "com.Tracker.schoolbustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735761968769-rn2la650r44rcs75brk7q8ooslaf21c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfq5dqQGsUyXuko72aFZ80iOvLhVjE3Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735761968769-rn2la650r44rcs75brk7q8ooslaf21c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
